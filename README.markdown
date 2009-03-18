@@ -16,8 +16,8 @@ I will start:
 
 link to talk idea.
 
-<a href="http://github.com/rblackwe/perl-talk-ideas/raw/092993e98361a9dc76636a5ca85db351a87ae206/versioned_datastores">versioned_datastores</a> 
-This is [an example](http://example.com/ "Title") inline link.
+[versioned_datastores]( http://github.com/rblackwe/perl-talk-ideas/raw/092993e98361a9dc76636a5ca85db351a87ae206/versioned_datastores "Title")
 
-	See it is not much.  It is just a seed.  Maybe it will grow into something maybe it won't.  But if you don't plant it, it will NEVER grow.
+
+See it does not have to be much.  It can be just a seed..  Maybe it will grow into something maybe it won't.  But if you don't plant it, it will NEVER grow.
 
