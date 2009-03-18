@@ -14,9 +14,8 @@ Basically this repo is inted to try to keep some talks from dieing quietly.
 
 I will start:
 
-link to talk idea.
-
 [versioned_datastores]( http://github.com/rblackwe/perl-talk-ideas/raw/092993e98361a9dc76636a5ca85db351a87ae206/versioned_datastores "Title")
+one with more detail
 
 
 See it does not have to be much.  It can be just a seed..  Maybe it will grow into something maybe it won't.  But if you don't plant it, it will NEVER grow.
